@@ -66,16 +66,16 @@ const Contact = () => {
   ];
 
   return (
-    <section id="contact" className="py-20 bg-gradient-to-b from-gray-50 to-white">
+    <section id="contact" className="py-20 bg-gradient-to-br from-gray-100 via-gray-200 to-gray-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Heading */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-extrabold text-gray-800 mb-4">
-            Let’s Work Together 🚀
+            Let's Work Together 
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-indigo-600 to-purple-600 mx-auto rounded-full mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Ready to bring your ideas to life? Let’s connect and create something amazing.
+            Ready to bring your ideas to life? Let's connect and create something amazing.
           </p>
         </div>
 
@@ -84,7 +84,7 @@ const Contact = () => {
           <div>
             <h3 className="text-2xl font-bold text-gray-800 mb-6">Get In Touch</h3>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Have a project in mind or just want to say hello? I’d love to hear from you.
+              Have a project in mind or just want to say hello? I'd love to hear from you.
             </p>
 
             <div className="space-y-6">

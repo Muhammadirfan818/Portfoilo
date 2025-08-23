@@ -43,10 +43,9 @@ function App() {
     <div className="relative">
       <Navbar />
       <Hero />
-      <About />
       <Tools />
       <Experience />
-      <Projects />
+      <About />
       <Contact />
       <Footer />
     </div>

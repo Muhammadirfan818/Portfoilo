@@ -60,16 +60,16 @@ const Experience = () => {
     <section
       ref={sectionRef}
       id="experience"
-      className="py-20 bg-gradient-to-b from-gray-50 to-white"
+      className="bg-gray-900 text-white py-20 relative overflow-hidden"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Heading */}
         <div className="text-center mb-16 animate-fade-in-up">
-          <h2 className="text-4xl md:text-5xl font-extrabold text-gray-800 mb-6">
+          <h2 className="text-4xl md:text-5xl font-extrabold text-White-800 mb-6">
             Experience
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-indigo-600 to-purple-600 mx-auto rounded-full mb-8"></div>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+          <p className="text-lg text-White-600 max-w-3xl mx-auto">
             A collection of my work experience and the roles I have taken in
             various organizations
           </p>
