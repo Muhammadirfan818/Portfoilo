@@ -1,0 +1,190 @@
+{
+  "summary": "Full-Stack Software Engineer specializing in AI-powered applications, scalable web platforms, and React Native mobile development. Experienced in building production-grade healthcare systems, AI-integrated SaaS platforms, WhatsApp automation systems, and advanced wellness applications using FastAPI, React, Next.js, React Native, PostgreSQL, and LLM technologies.",
+  "education": [
+    {
+      "degree": "BS Software Engineering",
+      "institution": "Virtual University",
+      "period": "03/01/2023 - Present",
+      "gpa": "3.42 / 4.0",
+      "details": [
+        "Relevant Coursework: Database Systems, Software Development, Computer Architecture"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "role": "FullStack Agentic AI Bootcamp",
+      "company": "Techloset Solutions (Onsite)",
+      "period": "11/01/2025 - 02/01/2026",
+      "location": "Pakistan",
+      "achievements": [
+        "Built scalable frontend systems using Next.js and React ecosystems.",
+        "Developed backend APIs and integrated full-stack workflows using FastAPI and Node.js.",
+        "Worked on production-level CRUD systems, authentication, and database architecture.",
+        "Delivered multiple production-grade AI and full-stack projects across web and mobile platforms.",
+        "Designed multi-agent AI workflows using LangChain and LangGraph focused on reliability and latency optimization."
+      ]
+    },
+    {
+      "role": "Software Engineering Intern",
+      "company": "Techloset Solutions",
+      "period": "03/01/2026 - 05/31/2026",
+      "location": "Pakistan",
+      "achievements": [
+        "Collaborated on various software development projects.",
+        "Assisted in frontend and backend development tasks.",
+        "Gained hands-on experience with modern tech stacks and production environments."
+      ]
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "Redux Toolkit",
+      "RTK Query",
+      "Tailwind CSS",
+      "NativeWind",
+      "Framer Motion",
+      "Reanimated",
+      "Lottie",
+      "Three.js"
+    ],
+    "backend": [
+      "FastAPI",
+      "Node.js",
+      "NestJS",
+      "Express.js",
+      "GraphQL",
+      "SQLAlchemy",
+      "Prisma ORM",
+      "Microservices",
+      "REST APIs",
+      "JWT Auth",
+      "OAuth2",
+      "WebSockets",
+      "Pydantic",
+      "RabbitMQ"
+    ],
+    "ai_llm": [
+      "LangChain",
+      "LangGraph",
+      "LiveKit (Voice AI)",
+      "Deepgram (STT)",
+      "ElevenLabs (TTS)",
+      "OpenAI Whisper",
+      "Groq API (Llama-3)",
+      "OpenAI API",
+      "Gemini API",
+      "Hugging Face (Llama, BERT, Mistral)",
+      "Prompt Engineering",
+      "Agentic Workflows"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Supabase",
+      "Neon DB",
+      "Docker",
+      "Nginx",
+      "Cloudinary",
+      "Vercel",
+      "Railway"
+    ],
+    "languages": ["JavaScript", "TypeScript", "Python", "SQL", "HTML5", "CSS3"],
+    "tools": [
+      "Git",
+      "GitHub",
+      "CI/CD Pipelines",
+      "Cypress",
+      "Postman",
+      "Axios",
+      "Resend",
+      "OpenCV",
+      "PyTorch"
+    ]
+  },
+  "projects": [
+    {
+      "id": "nexora-ai",
+      "title": "Nexora AI Dashboard",
+      "category": "AI & SaaS",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+      "description": "Agentic AI-powered productivity platform for project management, meetings, and workflow automation. Built with FastAPI + LangGraph backend.",
+      "tags": ["FastAPI", "LangGraph", "PostgreSQL", "React", "AI Agents"],
+      "githubUrl": "https://github.com/Muhammadirfan818/nexora-ai",
+      "liveUrl": "https://www.loom.com/share/281ec23d73d84898aebfc44c5f6d08e2"
+    },
+    {
+      "id": "project-mgmt",
+      "title": "Project Management Dashboard",
+      "category": "Web App",
+      "image": "https://images.pexels.com/photos/3182811/pexels-photo-3182811.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Real-time analytics-focused project management dashboard with KPI reports, calendar scheduling, and budget tracking.",
+      "tags": ["React", "TypeScript", "Redux Toolkit", "Node.js", "Prisma"],
+      "githubUrl": "https://github.com/Muhammadirfan818/Project-Management-dashboard-frontend",
+      "liveUrl": "https://www.loom.com/share/30165159c1104e5a838edcc734efffd5"
+    },
+    {
+      "id": "ncast",
+      "title": "NCAST Podcast App",
+      "category": "Mobile App",
+      "image": "https://images.pexels.com/photos/6686455/pexels-photo-6686455.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Cross-platform podcast streaming mobile application using React Native and Supabase. Features offline playback and push notifications.",
+      "tags": ["React Native", "Expo", "Supabase", "OneSignal"],
+      "githubUrl": "https://github.com/Muhammadirfan818/Podcast-app",
+      "liveUrl": "https://drive.google.com/file/d/1cAKLbmtYpaLdll0be0EPhnudb6e_eus8/view?usp=sharing"
+    },
+    {
+      "id": "vitalise",
+      "title": "Vitalise Wellness Yoga App",
+      "category": "AI & Health",
+      "image": "https://images.pexels.com/photos/3822906/pexels-photo-3822906.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "AI-powered yoga platform with interactive voice coaching and personalized plans using Groq AI and FastAPI.",
+      "tags": ["React Native", "FastAPI", "Groq AI", "PostgreSQL"],
+      "githubUrl": "https://github.com/Muhammadirfan818",
+      "liveUrl": "https://drive.google.com/file/d/1cAKLbmtYpaLdll0be0EPhnudb6e_eus8/view?usp=drive_link"
+    },
+    {
+      "id": "healthcore",
+      "title": "HealthCore Clinic Appoinment Chatbot",
+      "category": "AI & Healthcare",
+      "image": "https://images.pexels.com/photos/7088483/pexels-photo-7088483.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Healthcare management system with physician dashboards and an AI-powered WhatsApp voice assistant.",
+      "tags": ["React", "FastAPI", "Deepgram", "ElevenLabs", "Groq AI"],
+      "githubUrl": "https://github.com/Muhammadirfan818",
+      "liveUrl": "https://drive.google.com/file/d/1giBRZUNCevFggqIIzSY724AQUh1J2nNq/view?usp=drive_link"
+    },
+    {
+      "id": "luminae",
+      "title": "Luminae Skin Intelligence",
+      "category": "AI & Healthcare",
+      "image": "https://images.pexels.com/photos/3762882/pexels-photo-3762882.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "AI-powered clinical skin analysis platform using Hugging Face Transformers, OpenCV, and PyTorch.",
+      "tags": ["React 19", "FastAPI", "PyTorch", "OpenCV"],
+      "githubUrl": "https://github.com/Muhammadirfan818",
+      "liveUrl": "https://drive.google.com/file/d/1WDWFg6MNpN59k0frcSZG9Fy2sXPpfQQL/view?usp=drive_link"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Year of Experience",
+      "value": 1,
+      "suffix": "+",
+      "icon": "Clock"
+    },
+    {
+      "label": "Projects Completed",
+      "value": 15,
+      "suffix": "+",
+      "icon": "Code"
+    },
+    { "label": "GPA", "value": 3.42, "suffix": "", "icon": "Star" },
+    { "label": "Technologies", "value": 50, "suffix": "+", "icon": "Users" }
+  ]
+}

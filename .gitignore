@@ -1,0 +1,19 @@
+# Agents & Skills
+.agents/
+skills-lock.json
+
+# Node modules
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
